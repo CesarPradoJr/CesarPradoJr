@@ -27,12 +27,13 @@
   <a href="https://www.instagram.com/ceesinhaprado/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+##
+
+- 🔭 I'm currently working with JavaScript (React - Node).
+- 🌱 I am currently learning Pyhon (Pandas - Flask).
+- 💬 Ask me about CSS, HTML and JS.
+- 📫 How to reach me: cesarhenrique_prado@hotmail.com
+
+##
 
 ![Snake animation](https://github.com/cesarpradojr/cesarpradojr/blob/output/github-contribution-grid-snake.svg)
