@@ -1,6 +1,6 @@
 ### Hello, I'm César Prado. 😁
 <div>
-  <a href="https://beacons.ai/CesarPradoJr">
+  <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarpradojr&show_icons=true&theme=radical&border_radius=16&include_all_commits=true">
   <img height="220em" width="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&show_icons=true&theme=radical&border_radius=10">
   </a>
