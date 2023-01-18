@@ -1,12 +1,7 @@
 ### Hello, I'm César Prado. 😁
-<div>
-  <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarpradojr&show_icons=true&theme=radical&border_radius=16&include_all_commits=true">
-    ![César Prado GitHub stats](https://github-readme-stats.vercel.app/api?cesarpradojr=anuraghazra&show_icons=true&theme=radical)
-  <img height="220em" width="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&show_icons=true&theme=radical&border_radius=10">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</div>
+
+![César Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarpradojr&show_icons=true&theme=radical&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&theme=radical&border_radius=10)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar_Js" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
