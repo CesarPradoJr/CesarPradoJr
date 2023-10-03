@@ -33,5 +33,3 @@
 - 📫 How to reach me: cesarhenrique_prado@hotmail.com
 
 ##
-
-![Snake animation](https://github.com/cesarpradojr/cesarpradojr/blob/output/github-contribution-grid-snake.svg)
