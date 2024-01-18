@@ -4,6 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&theme=radical&border_radius=10)
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Cesar_Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>-
   <img align="center" alt="Cesar_Js" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
   <img align="center" alt="Cesar_Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-
   <img align="center" alt="Cesar_RC" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />-
@@ -27,8 +28,8 @@
 
 ##
 
+- 🌱 I am currently learning C# (.Net - AspNet).
 - 🔭 I'm currently working with JavaScript (React - Node).
-- 🌱 I am currently learning Pyhon (Pandas - Flask).
 - 💬 Ask me about CSS, HTML and JS.
 - 📫 How to reach me: cesarhenrique_prado@hotmail.com
 
