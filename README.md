@@ -8,7 +8,7 @@
   <img align="center" alt="Cesar_Js" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
   <img align="center" alt="Cesar_Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-
   <img align="center" alt="Cesar_RC" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />-
-  <img align="center" alt="Cesar_ND" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Cesar_ND" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
  
  ##
