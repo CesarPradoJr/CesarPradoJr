@@ -4,10 +4,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&theme=radical&border_radius=10)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cesar_Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>-
-  <img align="center" alt="Cesar_Js" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
-  <img align="center" alt="Cesar_RC" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />-
-  <img align="center" alt="Cesar_ND" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Cesar_C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>-
+  <img align="center" alt="Cesar_DK" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
+  <img align="center" alt="Cesar_AG" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />-
+  <img align="center" alt="Cesar_ND" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />-
+  <img align="center" alt="Cesar_TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />-
+  <img align="center" alt="Cesar_EL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+
 </div>
  
  ##
@@ -21,9 +24,8 @@
 
 ##
 
-- 🌱 I am currently learning C# (.Net - AspNet).
-- 🔭 I'm currently working with JavaScript (React - Node).
-- 💬 Ask me about CSS, HTML and JS.
+- 🌱 I am currently learning Electron (Typescript - Angular).
+- 🔭 I'm currently working with C# (.Net - AspNet).
 - 📫 How to reach me: cesarhenrique_prado@hotmail.com
 
 ##
