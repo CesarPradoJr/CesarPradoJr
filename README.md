@@ -1,20 +1,13 @@
 ### Hello, I'm César Prado. 😁
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
-![César Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarpradojr&show_icons=true&theme=radical&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&theme=radical&border_radius=10)
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cesar_C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>-
-  <img align="center" alt="Cesar_DK" height="50" width="60" src="https://img.icons8.com/color/48/000000/docker.png"/>-
-  <img align="center" alt="Cesar_AG" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />-
-  <img align="center" alt="Cesar_ND" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />-
-  <img align="center" alt="Cesar_TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />-
-  <img align="center" alt="Cesar_EL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-
+<img align="center" alt="3D Profile Stats" height="555" src="./profile-3d-contrib/profile-night-green.svg"/>
+<div style="display: inline-block;">
+  <img align="center" height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CesarPradoJr&theme=dracula"/>
+  <img align="center" height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CesarPradoJr&theme=dracula"/>
+</div>
+<br>
+<div">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,nodejs,css,html,electron,docker,dotnet,postgres,ts,azure,vscode,visualstudio,postman"  />
 </div>
  
  ##
