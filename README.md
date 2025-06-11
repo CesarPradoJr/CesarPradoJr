@@ -1,9 +1,11 @@
 ### Hello, I'm César Prado. 😁
 
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 ![César Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarpradojr&show_icons=true&theme=radical&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpradojr&theme=radical&border_radius=10)
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar_C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>-
