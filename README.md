@@ -7,7 +7,7 @@
 </div>
 <br>
 <div">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,nodejs,css,html,electron,docker,postgres,mysql,ts,azure,vscode,visualstudio,postman"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,nodejs,ts,css,html,electron,docker,postgres,mysql,azure,vscode,visualstudio,postman"  />
 </div>
  
  ##
