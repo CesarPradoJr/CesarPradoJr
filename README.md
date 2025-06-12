@@ -3,7 +3,7 @@
 <img align="center" alt="3D Profile Stats" height="555" src="./profile-3d-contrib/profile-night-green.svg"/>
 <div style="display: inline-block;">
   <img align="center" height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CesarPradoJr&theme=dracula"/>
-  <img align="center" height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CesarPradoJr&theme=dracula"/>
+  <img align="center" height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CesarPradoJr&theme=dracula&utcOffset=8"/>
 </div>
 <br>
 <div">
